@@ -18,10 +18,7 @@
         "no-trailing-spaces":"off",
         "keyword-spacing":"off",
         "eol-last": "off",
-        "require-jsdoc": "off"
-
-
-    
+        "require-jsdoc": "off"    
     }
    
 }
